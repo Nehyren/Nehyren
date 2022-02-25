@@ -6,11 +6,30 @@
 
 ## Introduction
 
+
 ## Requirements
++ MPQ Editor
++ WDBX Editor
+## DBC :
++ CharacterFacialHairStyles.dbc
++ CharBaseInfo.dbc
++ CharHairGeosets.dbc
++ CharHairTextures.dbc
++ CharSections.dbc
++ CharStartOutfit.dbc
++ ChrRaces.dbc
++ CreatureModelData.dbc
++ Faction.dbc
++ HelmetGeosetVisData.dbc
++ SkillLineAbility.dbc
++ SkillRaceClassInfo.dbc
++ Talent.dbc
++ TalentTab.dbc
+
 
 ## Contents
 
-## + Characters :
+## Characters :
 + Goblin
 + Nightborne
 + Pandaren
