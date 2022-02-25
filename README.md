@@ -5,8 +5,8 @@
 * [Contents](#contents)
 
 ## Requirements
-+ MPQ Editor
-+ WDBX Editor
++ [MPQ Editor](http://www.zezula.net/en/mpq/download.html)
++ [WDBX Editor](https://github.com/WowDevTools/WDBXEditor/releases)
 + Database editor
 ## DBC
 + CharacterFacialHairStyles.dbc
@@ -29,8 +29,8 @@
 
 ## Characters :
 + [Goblin](https://github.com/Nehyren/Nehyren/tree/main/Character/Goblin)
-+ Nightborne
-+ Pandaren
-+ Voidelf
-+ Vulpera
-+ Worgen
++ [Nightborne](https://github.com/Nehyren/Nehyren/tree/main/Character/Nightborne)
++ [Pandaren](https://github.com/Nehyren/Nehyren/tree/main/Character/Pandaren)
++ [Voidelf](https://github.com/Nehyren/Nehyren/tree/main/Character/Voidelf)
++ [Vulpera](https://github.com/Nehyren/Nehyren/tree/main/Character/Vulpera)
++ [Worgen](https://github.com/Nehyren/Nehyren/tree/main/Character/Worgen)
