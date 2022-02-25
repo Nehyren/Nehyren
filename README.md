@@ -28,7 +28,7 @@
 ## Contents
 
 ## Characters :
-+ Goblin
++ [Goblin](https://github.com/Nehyren/Nehyren/tree/main/Character/Goblin)
 + Nightborne
 + Pandaren
 + Voidelf
