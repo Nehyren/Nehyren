@@ -10,10 +10,10 @@
 
 ## Contents
 
-- Characters
-	*(Goblin)
-	*(Nightborne)
-	*(Pandaren)
-	*(Voidelf)
-	*(Vulpera)
-	*(Worgen)
+## + Characters :
++ Goblin
++ Nightborne
++ Pandaren
++ Voidelf
++ Vulpera
++ Worgen
