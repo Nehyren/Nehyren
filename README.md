@@ -7,6 +7,7 @@
 ## Requirements
 + MPQ Editor
 + WDBX Editor
++ Database editor
 ## DBC
 + CharacterFacialHairStyles.dbc
 + CharBaseInfo.dbc
