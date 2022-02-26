@@ -37,12 +37,6 @@
 + SpellVisualEffectName.dbc
 + SpellVisualKit.dbc
 + SpellVisualKitModelAttach.dbc
-+ Faction.dbc
-+ HelmetGeosetVisData.dbc
-+ SkillLineAbility.dbc
-+ SkillRaceClassInfo.dbc
-+ Talent.dbc
-+ TalentTab.dbc
 
 ## DBC
 
