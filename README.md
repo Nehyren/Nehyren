@@ -1,4 +1,4 @@
-# ![logo](https://dream-eden.eu/download/img/WS.png) Content retroport Shadowlands to WoTLK
+# ![logo](assets/images/WS.png) Content retroport Shadowlands to WoTLK
 
 * [Requirements](#requirements)
 * [DBC](#dbc)
