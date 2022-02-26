@@ -9,6 +9,8 @@
 + [WDBX Editor](https://github.com/WowDevTools/WDBXEditor/releases)
 + Database editor
 ## DBC
+
+## Characters :
 + CharacterFacialHairStyles.dbc
 + CharBaseInfo.dbc
 + CharHairGeosets.dbc
@@ -24,6 +26,29 @@
 + Talent.dbc
 + TalentTab.dbc
 
+## DBC
+
+## Item :
++ Item.dbc
++ ItemDisplayInfo.dbc
++ Spell.dbc
++ SpellIcon.dbc
++ SpellVisual.dbc
++ SpellVisualEffectName.dbc
++ SpellVisualKit.dbc
++ SpellVisualKitModelAttach.dbc
++ Faction.dbc
++ HelmetGeosetVisData.dbc
++ SkillLineAbility.dbc
++ SkillRaceClassInfo.dbc
++ Talent.dbc
++ TalentTab.dbc
+
+## DBC
+
+## Creature :
++ CreatureDisplayInfo.dbc
++ CreatureModelData.dbc
 
 ## Contents
 
@@ -34,3 +59,13 @@
 + [Voidelf](https://github.com/Nehyren/Nehyren/tree/main/Character/Voidelf)
 + [Vulpera](https://github.com/Nehyren/Nehyren/tree/main/Character/Vulpera)
 + [Worgen](https://github.com/Nehyren/Nehyren/tree/main/Character/Worgen)
+
+## Contents
+
+## Item :
++ [Item](https://github.com/Nehyren/Nehyren/tree/main/ITEM)
+
+## Contents
+
+## Creature :
++ [Creature](https://github.com/Nehyren/Nehyren/tree/main/Creature)
