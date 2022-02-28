@@ -19,6 +19,7 @@
 + CharStartOutfit.dbc
 + ChrRaces.dbc
 + CreatureModelData.dbc
++ CreatureDisplayInfo.dbc
 + Faction.dbc
 + HelmetGeosetVisData.dbc
 + SkillLineAbility.dbc
