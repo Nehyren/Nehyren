@@ -45,6 +45,16 @@
 + CreatureDisplayInfo.dbc
 + CreatureModelData.dbc
 
+## DBC
+
+## Mount :
++ CreatureDisplayInfo.dbc
++ CreatureModelData.dbc
++ Item.dbc
++ ItemDisplayInfo.dbc
++ Spell.dbc
++ SpellIcon.dbc
+
 ## Contents
 
 ## Characters :
