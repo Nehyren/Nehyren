@@ -76,7 +76,7 @@ enum Races
 };
 
 // max+1 for player race
-#define MAX_RACES         18
+#define MAX_RACES         22
 
 #define RACEMASK_ALL_PLAYABLE \
     ((1<<(RACE_HUMAN-1))   |(1<<(RACE_ORC-1))          |(1<<(RACE_DWARF-1))   | \
