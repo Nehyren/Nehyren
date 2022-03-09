@@ -1,0 +1,3 @@
+<componentinfo format="1">
+    <component name="wow-frfr" version="12340" />
+</componentinfo>
