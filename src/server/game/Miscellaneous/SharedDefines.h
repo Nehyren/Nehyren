@@ -51,39 +51,39 @@ enum Gender
 // Race value is index in ChrRaces.dbc
 enum Races
 {
-    RACE_NONE                 = 0,
-    RACE_HUMAN                = 1,
-    RACE_ORC                  = 2,
-    RACE_DWARF                = 3,
-    RACE_NIGHTELF             = 4,
-    RACE_UNDEAD_PLAYER        = 5,
-    RACE_TAUREN               = 6,
-    RACE_GNOME                = 7,
-    RACE_TROLL                = 8,
-    RACE_GOBLIN               = 9,
-    RACE_BLOODELF             = 10,
-    RACE_DRAENEI              = 11,
-    RACE_WORGEN               = 12,
-    RACE_PANDAREN_ALLIANCE    = 13,
-    RACE_PANDAREN_HORDE       = 14,
-    RACE_VULPERA              = 15,
-    //RACE_VRYKUL             = 16,
-    //RACE_TUSKARR            = 17,
-    RACE_VOID_ELF             = 18,
+    RACE_NONE               = 0,
+    RACE_HUMAN              = 1,
+    RACE_ORC                = 2,
+    RACE_DWARF              = 3,
+    RACE_NIGHTELF           = 4,
+    RACE_UNDEAD_PLAYER      = 5,
+    RACE_TAUREN             = 6,
+    RACE_GNOME              = 7,
+    RACE_TROLL              = 8,
+    RACE_GOBLIN             = 9,
+    RACE_BLOODELF           = 10,
+    RACE_DRAENEI            = 11,
+    RACE_WORGEN             = 12,
+    RACE_PANDAREN_HORDE     = 13,
+    RACE_PANDAREN_ALLIANCE  = 14,
+    RACE_NIGHTBORNE         = 15,
+    RACE_VOID_ELF           = 16,
+    RACE_VULPERA            = 17
+    //RACE_FOREST_TROLL       = 18,
     //RACE_TAUNKA             = 19,
     //RACE_NORTHREND_SKELETON = 20,
-    RACE_NIGHTBORNE           = 21
+    //RACE_ICE_TROLL          = 21
 };
 
 // max+1 for player race
-#define MAX_RACES         22
+#define MAX_RACES         18
 
 #define RACEMASK_ALL_PLAYABLE \
     ((1<<(RACE_HUMAN-1))   |(1<<(RACE_ORC-1))          |(1<<(RACE_DWARF-1))   | \
     (1<<(RACE_NIGHTELF-1))|(1<<(RACE_UNDEAD_PLAYER-1))|(1<<(RACE_TAUREN-1))  | \
     (1<<(RACE_GNOME-1))   |(1<<(RACE_TROLL-1))        |(1<<(RACE_BLOODELF-1))| \
     (1<<(RACE_DRAENEI-1)) |(1<<(RACE_GOBLIN-1))       |(1<<(RACE_WORGEN-1)) | \
-    (1<<(RACE_PANDAREN_ALLIANCE-1)) | (1<<(RACE_PANDAREN_HORDE-1)) | (1<<(RACE_NIGHTBORNE-1)) | \
+    (1<<(RACE_PANDAREN_HORDE-1)) | (1<<(RACE_PANDAREN_ALLIANCE-1)) | (1<<(RACE_NIGHTBORNE-1)) | \
     (1<<(RACE_VOID_ELF-1)) | (1<<(RACE_VULPERA-1)))
 
 #define RACEMASK_ALLIANCE \
