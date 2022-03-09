@@ -5,7 +5,7 @@
 * [Contents](#contents)
 
 ## Requirements
-+ [MPQ Editor](http://www.zezula.net/en/mpq/download.html)
++ [MPQ Editor](https://github.com/Nehyren/Nehyren/blob/main/Tools/MPQEditor/MPQEditor.exe)
 + [WDBX Editor](https://github.com/WowDevTools/WDBXEditor/releases)
 + Database editor
 ## DBC
