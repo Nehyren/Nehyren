@@ -63,6 +63,8 @@
 + [Voidelf](https://github.com/Nehyren/Nehyren/tree/main/Character/Voidelf)
 + [Vulpera](https://github.com/Nehyren/Nehyren/tree/main/Character/Vulpera)
 + [Worgen](https://github.com/Nehyren/Nehyren/tree/main/Character/Worgen)
++ [Lightforgeddraenei](https://github.com/Nehyren/Nehyren/tree/main/Character/Lightforgeddraenei)
++ [Zandalaritroll](https://github.com/Nehyren/Nehyren/tree/main/Character/Zandalaritroll)
 
 ## Contents
 
