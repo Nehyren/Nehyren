@@ -69,8 +69,8 @@ enum Races
     RACE_VOID_ELF             = 15,
     RACE_NIGHTBORNE           = 16,
     RACE_VULPERA              = 17,
-	RACE_LIGHTFORGED_DRAENEI  = 18,
-	RACE_ZANDALARI_TROLL      = 19
+    RACE_LIGHTFORGED_DRAENEI  = 18,
+    RACE_ZANDALARI_TROLL      = 19
     //RACE_FOREST_TROLL       = 18,
     //RACE_TAUNKA             = 19,
     //RACE_NORTHREND_SKELETON = 20,
@@ -87,7 +87,7 @@ enum Races
     (1<<(RACE_DRAENEI-1)) |(1<<(RACE_GOBLIN-1))       |(1<<(RACE_WORGEN-1)) | \
     (1<<(RACE_PANDAREN_HORDE-1)) | (1<<(RACE_PANDAREN_ALLIANCE-1)) | (1<<(RACE_VOID_ELF-1)) | \
     (1<<(RACE_NIGHTBORNE-1)) | (1<<(RACE_VULPERA-1)) | (1<<(RACE_LIGHTFORGEDDRAENEI-1)) | \
-	(1<<(RACE_ZANDALARI_TROLL-1)))
+    (1<<(RACE_ZANDALARI_TROLL-1)))
 
 #define RACEMASK_ALLIANCE \
     ((1<<(RACE_HUMAN-1)) | (1<<(RACE_DWARF-1)) | (1<<(RACE_NIGHTELF-1)) | \
