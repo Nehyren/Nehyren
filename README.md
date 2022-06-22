@@ -57,6 +57,7 @@
 ## Contents
 
 ## Characters :
++ [Eredar](https://github.com/Nehyren/Nehyren/tree/main/Character/Eredar)
 + [Goblin](https://github.com/Nehyren/Nehyren/tree/main/Character/Goblin)
 + [Nightborne](https://github.com/Nehyren/Nehyren/tree/main/Character/Nightborne)
 + [Pandaren](https://github.com/Nehyren/Nehyren/tree/main/Character/Pandaren)
