@@ -6,7 +6,7 @@
 
 ## Requirements
 + [MPQ Editor](https://github.com/Nehyren/Nehyren/blob/main/Tools/MPQEditor/MPQEditor.exe)
-+ [WDBX Editor](https://github.com/WowDevTools/WDBXEditor/releases)
++ [WDBX Editor](https://github.com/Nehyren/Nehyren/blob/main/Tools/WDBX.Editor/WDBX.Editor.zip)
 + [SQLyog](https://github.com/Nehyren/Nehyren/blob/main/Tools/SQLyog/SQLyog-13.1.7-0.x64Community.exe)
 ## DBC
 
