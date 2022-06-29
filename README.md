@@ -66,6 +66,7 @@
 + [Worgen](https://github.com/Nehyren/Nehyren/tree/main/Character/Worgen)
 + [Lightforgeddraenei](https://github.com/Nehyren/Nehyren/tree/main/Character/lightforgeddraenei)
 + [Zandalaritroll](https://github.com/Nehyren/Nehyren/tree/main/Character/zandalaritroll)
++ [Darkirondwarf](https://github.com/Nehyren/Nehyren/tree/main/Character/Darkirondwarf)
 
 ## Contents
 
